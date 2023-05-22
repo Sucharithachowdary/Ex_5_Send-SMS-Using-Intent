@@ -36,6 +36,7 @@ RegisterNumber:212221240021
 ```
 
 ## MainActivity.java:
+```
 package com.firstapp.ex05;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -69,13 +70,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
-
-
-
-
-
-
+```
 ## activity_main.xml:
+```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -94,11 +91,9 @@ public class MainActivity extends AppCompatActivity {
         android:layout_centerVertical="true"/>
 
 </RelativeLayout>
-
-
-
-
+```
 ## AndroidMainfest.xml
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
@@ -125,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
 
 </manifest>
 
-
+```
 ## Output:
 ![output](https://github.com/Sucharithachowdary/Ex_5_Send-SMS-Using-Intent/blob/main/ex5-1.png?raw)
 ![output](https://github.com/Sucharithachowdary/Ex_5_Send-SMS-Using-Intent/blob/main/ex5-2.png?raw)
