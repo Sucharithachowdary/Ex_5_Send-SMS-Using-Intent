@@ -128,7 +128,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## Output:
 ![output](https://github.com/Sucharithachowdary/Ex_5_Send-SMS-Using-Intent/blob/main/ex5-1.png?raw)
-![output](?raw)
+![output](https://github.com/Sucharithachowdary/Ex_5_Send-SMS-Using-Intent/blob/main/ex5-2.png?raw)
 
 
 
